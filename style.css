@@ -112,7 +112,6 @@ img.avatar-big{
 }
 
 .btn{ 
-    
     background-color: #1a7eca;
     color:white;
     padding: 8px 10px;
@@ -121,6 +120,7 @@ img.avatar-big{
     width:100px;
     text-align: center;
     cursor:pointer;
+    font-family: inherit;
       
 }
 
